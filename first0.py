@@ -1,0 +1,8 @@
+print("Jenil chevl")
+print("16")
+print("C.C Shah")
+print("*")
+print("**")
+print("***")
+print("**")
+print("*")

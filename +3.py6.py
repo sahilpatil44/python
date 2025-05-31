@@ -1,0 +1,6 @@
+a= input ("entre the value of a:")
+x = input("entre the value of x :")
+y = input ("entre the value of y :")
+print (int(a))
+print (bool(a))
+print ( float(a))
